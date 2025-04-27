@@ -52,9 +52,9 @@ http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 group-title="江苏联通线路-央视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/CCTV17.png" ,CCTV17
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
 http://1.192.72.243:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="江苏联通线路-央视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/CCTV风云足球.png" ,CCTV风云足球.
+#EXTINF:-1 group-title="江苏联通线路-央视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/CCTV风云足球.png" ,风云足球.
 http://112.86.202.37:8112/JSBC_iptv/C10000204@JSBC
-#EXTINF:-1 group-title="江苏联通线路-央视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/CCTV卫生健康.png" ,CCTV卫生健康
+#EXTINF:-1 group-title="江苏联通线路-央视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/CCTV卫生健康.png" ,卫生健康
 http://112.86.202.37:8112/JSBC_iptv/C10000416@JSBC
 #EXTINF:-1 group-title="江苏联通线路-央视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/中国天气.png" ,中国天气
 http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
@@ -107,7 +107,7 @@ http://1.192.72.243:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.86.202.37:8112/JSBC_iptv/C10000051@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000066@JSBC
 http://1.195.131.251:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="江苏联通线路-卫视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/天津卫.png" ,天津卫视
+#EXTINF:-1 group-title="江苏联通线路-卫视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/天津卫视.png" ,天津卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000052@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000065@JSBC
 http://1.192.72.243:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -184,7 +184,7 @@ http://1.195.131.251:9909/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.72.243:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="江苏联通线路-卫视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/三沙卫视.png" ,三沙卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000410@JSBC
-#EXTINF:-1 group-title="江苏联通线路-卫视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/南京少儿.png" ,青海卫视
+#EXTINF:-1 group-title="江苏联通线路-卫视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/青海卫视.png" ,青海卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000408@JSBC
 #EXTINF:-1 group-title="江苏联通线路-地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/南京少儿.png" ,南京少儿
 http://112.86.202.37:8112/JSBC_iptv/C10000156@JSBC
@@ -290,7 +290,7 @@ http://183.66.15.146:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.66.15.146:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/重庆少儿.png" ,重庆少儿
 http://183.66.15.146:60901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/重庆都市.png" ,重庆都市
+#EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/社会与法.png" ,重庆都市
 http://183.66.15.146:60901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/文体娱乐.png" ,重庆娱乐
+#EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/重庆娱乐.png" ,重庆娱乐
 http://183.66.15.146:60901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
