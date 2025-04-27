@@ -231,7 +231,7 @@ http://1.192.72.243:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其它台" tvg-logo="https://tvlogo.935181.xyz/LOGO/CHC动作电影.png" ,CHC动作电影
 http://1.192.72.243:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.36.78.50:9981/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其它台" tvg-logo="https://tvlogo.935181.xyz/LOGO/国防军事.png" ,国防军事
+#EXTINF:-1 group-title="央视台" tvg-logo="https://tvlogo.935181.xyz/LOGO/国防军事.png" ,国防军事
 http://112.86.202.37:8112/JSBC_iptv/C10000196@JSBC
 http://1.192.72.243:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="全网通-浙江地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/义乌新闻综合.png" ,义乌新闻综合
@@ -290,7 +290,7 @@ http://183.66.15.146:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.66.15.146:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/重庆少儿.png" ,重庆少儿
 http://183.66.15.146:60901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/社会与法.png" ,重庆都市
+#EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/重庆都市.png" ,重庆都市
 http://183.66.15.146:60901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="全网通-重庆地区台" tvg-logo="https://tvlogo.935181.xyz/LOGO/重庆娱乐.png" ,重庆娱乐
 http://183.66.15.146:60901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
