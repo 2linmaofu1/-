@@ -35,24 +35,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 group-title="央视台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" ,CCTV17
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
-#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV怀旧剧场.png" ,怀旧剧场
-https://nptv.freetv.top/nptv/hjjc.m3u8 
-#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV风云剧场.png" ,风云剧场
-https://nptv.freetv.top/nptv/fyjc.m3u8 
-#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV第一剧场.png" ,第一剧场
-https://nptv.freetv.top/nptv/dyjc.m3u8 
-#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/都市剧场.png" ,都市剧场
-http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
-#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/法治天地.png" ,法治天地
-http://112.86.202.37:8112/JSBC_iptv/C10000422@JSBC
-#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中国天气.png" ,中国天气
-http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
-#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" ,生活时尚
-http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
-#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/茶频道.png" ,茶频道
-http://112.86.202.37:8112/JSBC_iptv/C10000160@JSBC
-#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/快乐垂钓.png" ",快乐垂钓
-http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
 #EXTINF:-1 group-title="卫视台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" ,湖南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
 #EXTINF:-1 group-title="卫视台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" ,浙江卫视
@@ -144,6 +126,16 @@ http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000032@JSBC
 #EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏教育.png" ,江苏教育
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/法治天地.png" ,法治天地
+http://112.86.202.37:8112/JSBC_iptv/C10000422@JSBC
+#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中国天气.png" ,中国天气
+http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" ,生活时尚
+http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/茶频道.png" ,茶频道
+http://112.86.202.37:8112/JSBC_iptv/C10000160@JSBC
+#EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/快乐垂钓.png" ",快乐垂钓
+http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
 #EXTINF:-1 group-title="教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV-1.png" ,CETV-1
 http://112.86.202.37:8112/JSBC_iptv/C10000172@JSBC
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/152/202407181432_1721283773509_H169_1080.jpg" group-title="教育", CETV2
@@ -206,6 +198,14 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1 group-title="地区台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上虞新闻综合.png" ,上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV怀旧剧场.png" ,怀旧剧场
+https://nptv.freetv.top/nptv/hjjc.m3u8 
+#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV风云剧场.png" ,风云剧场
+https://nptv.freetv.top/nptv/fyjc.m3u8 
+#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV第一剧场.png" ,第一剧场
+https://nptv.freetv.top/nptv/dyjc.m3u8 
+#EXTINF:-1 group-title="影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/都市剧场.png" ,都市剧场
+http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新片放映厅.png" group-title="影视", 新片放映厅
 https://www.freetv.top/migu/619495952.m3u8?migutoken=16e1ef88e522b3ded1b1f9adac95a74ca4709f3248f162b37b06911524f00bf8419f79b0bc3ba0a423b3b1469b62d65db231d97301ed0a50320a8b8eac7556a4e2b9f3bf26241ef8cd3c1847b8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC影迷电影.png" group-title="影视", CHC影迷电影
